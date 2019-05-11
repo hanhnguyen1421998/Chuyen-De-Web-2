@@ -1,0 +1,45 @@
+body {
+  background: #2F5BB7;
+}
+body #___gcse_0 {
+  width: 500px !important;
+  z-index: 1;
+  margin-left: 100px;
+}
+body .type-1112 {
+  width: 700px;
+  border: 1px solid #fff;
+  background: #fff;
+  height: 500px;
+  border-radius: 25px;
+  position: relative;
+  margin-top: 12%;
+  left: 24%;
+  z-index: 2;
+}
+body .type-1112 .gstl_50 tr {
+  height: 50px;
+}
+body .type-1112 .gstl_50 tr input {
+  font-size: 15px;
+}
+body .type-1112 .gsc-search-button-v2 {
+  height: 50px;
+}
+body .type-1112 .logo-search img {
+  margin-left: 30%;
+  margin-top: 25%;
+}
+body .type-1112 .btn-save {
+  padding: 6px 20px;
+  border: 1px solid #666666;
+  background: #4D90FE;
+  height: 50px;
+  color: #fff;
+  position: absolute;
+  margin-top: 41%;
+  left: 560px;
+}
+body .type-1112 .gsc-control-wrapper-cse {
+  margin-left: -40px;
+}
